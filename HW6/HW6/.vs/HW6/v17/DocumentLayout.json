@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zaneb\\Desktop\\Resume Code\\HW6\\HW6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{149FF176-4BC6-46B2-B4BE-D9F3F35EDAB1}|HW6.csproj|c:\\users\\zaneb\\desktop\\resume code\\hw6\\hw6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{149FF176-4BC6-46B2-B4BE-D9F3F35EDAB1}|HW6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{149FF176-4BC6-46B2-B4BE-D9F3F35EDAB1}|HW6.csproj|c:\\users\\zaneb\\desktop\\resume code\\hw6\\hw6\\powertool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{149FF176-4BC6-46B2-B4BE-D9F3F35EDAB1}|HW6.csproj|solutionrelative:powertool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{149FF176-4BC6-46B2-B4BE-D9F3F35EDAB1}|HW6.csproj|c:\\users\\zaneb\\desktop\\resume code\\hw6\\hw6\\gasb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{149FF176-4BC6-46B2-B4BE-D9F3F35EDAB1}|HW6.csproj|solutionrelative:gasb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{149FF176-4BC6-46B2-B4BE-D9F3F35EDAB1}|HW6.csproj|c:\\users\\zaneb\\desktop\\resume code\\hw6\\hw6\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{149FF176-4BC6-46B2-B4BE-D9F3F35EDAB1}|HW6.csproj|solutionrelative:engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{149FF176-4BC6-46B2-B4BE-D9F3F35EDAB1}|HW6.csproj|c:\\users\\zaneb\\desktop\\resume code\\hw6\\hw6\\electricb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{149FF176-4BC6-46B2-B4BE-D9F3F35EDAB1}|HW6.csproj|solutionrelative:electricb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{149FF176-4BC6-46B2-B4BE-D9F3F35EDAB1}|HW6.csproj|c:\\users\\zaneb\\desktop\\resume code\\hw6\\hw6\\cordless.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{149FF176-4BC6-46B2-B4BE-D9F3F35EDAB1}|HW6.csproj|solutionrelative:cordless.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{149FF176-4BC6-46B2-B4BE-D9F3F35EDAB1}|HW6.csproj|c:\\users\\zaneb\\desktop\\resume code\\hw6\\hw6\\cord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{149FF176-4BC6-46B2-B4BE-D9F3F35EDAB1}|HW6.csproj|solutionrelative:cord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{149FF176-4BC6-46B2-B4BE-D9F3F35EDAB1}|HW6.csproj|c:\\users\\zaneb\\desktop\\resume code\\hw6\\hw6\\battery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{149FF176-4BC6-46B2-B4BE-D9F3F35EDAB1}|HW6.csproj|solutionrelative:battery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zaneb\\Desktop\\Resume Code\\HW6\\HW6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\zaneb\\Desktop\\Resume Code\\HW6\\HW6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwBEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T23:44:53.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PowerTool.cs",
+              "DocumentMoniker": "C:\\Users\\zaneb\\Desktop\\Resume Code\\HW6\\HW6\\PowerTool.cs",
+              "RelativeDocumentMoniker": "PowerTool.cs",
+              "ToolTip": "C:\\Users\\zaneb\\Desktop\\Resume Code\\HW6\\HW6\\PowerTool.cs",
+              "RelativeToolTip": "PowerTool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T23:45:20.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GasB.cs",
+              "DocumentMoniker": "C:\\Users\\zaneb\\Desktop\\Resume Code\\HW6\\HW6\\GasB.cs",
+              "RelativeDocumentMoniker": "GasB.cs",
+              "ToolTip": "C:\\Users\\zaneb\\Desktop\\Resume Code\\HW6\\HW6\\GasB.cs",
+              "RelativeToolTip": "GasB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T23:45:19.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\zaneb\\Desktop\\Resume Code\\HW6\\HW6\\Engine.cs",
+              "RelativeDocumentMoniker": "Engine.cs",
+              "ToolTip": "C:\\Users\\zaneb\\Desktop\\Resume Code\\HW6\\HW6\\Engine.cs",
+              "RelativeToolTip": "Engine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T23:45:17.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ElectricB.cs",
+              "DocumentMoniker": "C:\\Users\\zaneb\\Desktop\\Resume Code\\HW6\\HW6\\ElectricB.cs",
+              "RelativeDocumentMoniker": "ElectricB.cs",
+              "ToolTip": "C:\\Users\\zaneb\\Desktop\\Resume Code\\HW6\\HW6\\ElectricB.cs",
+              "RelativeToolTip": "ElectricB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T23:45:16.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cordless.cs",
+              "DocumentMoniker": "C:\\Users\\zaneb\\Desktop\\Resume Code\\HW6\\HW6\\Cordless.cs",
+              "RelativeDocumentMoniker": "Cordless.cs",
+              "ToolTip": "C:\\Users\\zaneb\\Desktop\\Resume Code\\HW6\\HW6\\Cordless.cs",
+              "RelativeToolTip": "Cordless.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T23:45:15.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cord.cs",
+              "DocumentMoniker": "C:\\Users\\zaneb\\Desktop\\Resume Code\\HW6\\HW6\\Cord.cs",
+              "RelativeDocumentMoniker": "Cord.cs",
+              "ToolTip": "C:\\Users\\zaneb\\Desktop\\Resume Code\\HW6\\HW6\\Cord.cs",
+              "RelativeToolTip": "Cord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T23:45:13.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Battery.cs",
+              "DocumentMoniker": "C:\\Users\\zaneb\\Desktop\\Resume Code\\HW6\\HW6\\Battery.cs",
+              "RelativeDocumentMoniker": "Battery.cs",
+              "ToolTip": "C:\\Users\\zaneb\\Desktop\\Resume Code\\HW6\\HW6\\Battery.cs",
+              "RelativeToolTip": "Battery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T23:45:12.469Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+﻿  StudentCoursesTest.cpp
+C:\Users\1877747\Desktop\Lab12\StudentCoursesTest.cpp(92,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\1877747\Desktop\Lab12\StudentCoursesTest.cpp(122,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\1877747\Desktop\Lab12\StudentCoursesTest.cpp(134,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\1877747\Desktop\Lab12\StudentCoursesTest.cpp(146,23): warning C4018: '<': signed/unsigned mismatch
+  Lab12.vcxproj -> C:\Users\1877747\Desktop\Lab12\Debug\Lab12.exe
