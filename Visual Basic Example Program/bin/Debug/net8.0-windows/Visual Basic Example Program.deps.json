@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Visual Basic Example Program/1.0.0": {
+        "runtime": {
+          "Visual Basic Example Program.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Visual Basic Example Program/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

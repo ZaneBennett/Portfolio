@@ -1,0 +1,16 @@
+D:\Scripts\Visual Basic Example Program\bin\Debug\net8.0-windows\Visual Basic Example Program.exe
+D:\Scripts\Visual Basic Example Program\bin\Debug\net8.0-windows\Visual Basic Example Program.deps.json
+D:\Scripts\Visual Basic Example Program\bin\Debug\net8.0-windows\Visual Basic Example Program.runtimeconfig.json
+D:\Scripts\Visual Basic Example Program\bin\Debug\net8.0-windows\Visual Basic Example Program.dll
+D:\Scripts\Visual Basic Example Program\bin\Debug\net8.0-windows\Visual Basic Example Program.pdb
+D:\Scripts\Visual Basic Example Program\obj\Debug\net8.0-windows\Visual_Basic_Example_Program.Form1.resources
+D:\Scripts\Visual Basic Example Program\obj\Debug\net8.0-windows\Visual Basic Example Program.vbproj.GenerateResource.cache
+D:\Scripts\Visual Basic Example Program\obj\Debug\net8.0-windows\Visual Basic Example Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\Scripts\Visual Basic Example Program\obj\Debug\net8.0-windows\Visual Basic Example Program.AssemblyInfoInputs.cache
+D:\Scripts\Visual Basic Example Program\obj\Debug\net8.0-windows\Visual Basic Example Program.AssemblyInfo.vb
+D:\Scripts\Visual Basic Example Program\obj\Debug\net8.0-windows\Visual Basic Example Program.vbproj.CoreCompileInputs.cache
+D:\Scripts\Visual Basic Example Program\obj\Debug\net8.0-windows\Visual Basic Example Program.dll
+D:\Scripts\Visual Basic Example Program\obj\Debug\net8.0-windows\refint\Visual Basic Example Program.dll
+D:\Scripts\Visual Basic Example Program\obj\Debug\net8.0-windows\Visual Basic Example Program.pdb
+D:\Scripts\Visual Basic Example Program\obj\Debug\net8.0-windows\Visual Basic Example Program.genruntimeconfig.cache
+D:\Scripts\Visual Basic Example Program\obj\Debug\net8.0-windows\ref\Visual Basic Example Program.dll
